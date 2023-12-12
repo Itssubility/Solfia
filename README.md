@@ -1,5 +1,5 @@
 # Solfia
-
+`현재 github 업로드를 위한 프로젝트 파일 수정 중입니다`
 ChatBot Project Based on Persona
 ---
 # 팀 소개
