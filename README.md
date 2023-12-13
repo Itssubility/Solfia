@@ -1,7 +1,6 @@
 # Solfia
 ChatBot Project Based on Persona
 ---
-`현재 github 업로드를 위한 프로젝트 파일 수정 중입니다`  
 # 팀 소개
 **팀명: itssubility - 함께 빛나는 팀**
 
