@@ -1,8 +1,8 @@
 # Solfia
 ChatBot Project Based on Persona
-
-**발표 영상** [LINK(Youtube)](https://youtu.be/Yxf-iGotDWo?si=8N0mVV1vj5jbGV0L)
 ---
+**발표 영상** [LINK(Youtube)](https://youtu.be/Yxf-iGotDWo?si=8N0mVV1vj5jbGV0L)
+
 # 팀 소개
 **팀명: itssubility - 함께 빛나는 팀**
 
